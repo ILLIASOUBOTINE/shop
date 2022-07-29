@@ -1,2 +1,2 @@
 # shop
-shop is a internet shop
+shop is an internet shop
